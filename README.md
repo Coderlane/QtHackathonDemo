@@ -1,7 +1,11 @@
 QtHackathonDemo
 ===============
 
-Some small demo projects showing what you can do with Qt.
+A few quick Qt Demos so you can get a feel for the langauage.
+You can find more demos here:
+* http://qt-project.org/doc/qt-5.1/qtdoc/index.html
+* http://qt-project.org/doc/qt-4.8/demos.html
+
 
 ## Installation
 
